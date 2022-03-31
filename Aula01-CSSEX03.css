@@ -1,0 +1,29 @@
+#div1 {
+    background-color: #ff0080;
+    width: 450px;
+    height: 450px;
+}
+#div2{
+    background-color: #bd548e;
+    width: 350px;
+    height: 350px;
+}
+#p_ {
+    background-color: #c40089;
+    color: white;
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}
+#div3 {
+    width: 48%;
+    height: 40vh;
+    background-color: rgb(133, 7, 91);
+}
+#div4{
+    width: 50vh;
+    height: 70%;
+    background-color: rgb(163, 14, 101);
+}
+
+/* Mariana Cabral - RA 03221061 - 1° SIS */
